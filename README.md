@@ -1,2 +1,2 @@
 # InstaBot
-Honbo-slave InstaBot
+Hongbo-slave InstaBot
